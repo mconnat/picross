@@ -1,3 +1,3 @@
 # picross
 
-![](https://github.com/mconnat/picross/docs/demo.gif)
+![](https://github.com/mconnat/picross/blob/main/docs/demo.gif)
